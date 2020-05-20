@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e53be09-c865-4980-98c3-78151bb083ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpjXylwwHaMEXhlAdsxRDSBIQs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform - 副本\admin-client_final\src\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform - 副本\admin-client_final\src\pages\data-details" />
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform - 副本\admin-client_final\src\pages\reporting-system" />
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform - 副本\admin-client_final\src\pages\applications" />
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform - 副本\admin-client_final\src\components\header" />
+      <recent name="C:\Users\cz\Desktop\Sample-manage-platform\admin-client_final\src\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e53be09-c865-4980-98c3-78151bb083ce" name="Default Changelist" comment="" />
+      <created>1584949893969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584949893969</updated>
+      <workItem from="1584949895551" duration="2248000" />
+      <workItem from="1585125919529" duration="7247000" />
+      <workItem from="1585531194268" duration="433000" />
+      <workItem from="1585535113637" duration="23375000" />
+      <workItem from="1585812289627" duration="4378000" />
+      <workItem from="1585878652541" duration="735000" />
+      <workItem from="1586312679927" duration="6743000" />
+      <workItem from="1586398344950" duration="12858000" />
+      <workItem from="1586832022705" duration="2866000" />
+      <workItem from="1586843836628" duration="15864000" />
+      <workItem from="1587346596359" duration="5102000" />
+      <workItem from="1587524665589" duration="5343000" />
+      <workItem from="1587865295702" duration="2962000" />
+      <workItem from="1587887994471" duration="8883000" />
+      <workItem from="1587957839025" duration="255000" />
+      <workItem from="1587966862992" duration="16848000" />
+      <workItem from="1588037587573" duration="17479000" />
+      <workItem from="1588125142972" duration="2134000" />
+      <workItem from="1588210174085" duration="4982000" />
+      <workItem from="1588391673155" duration="3272000" />
+      <workItem from="1588729589772" duration="6156000" />
+      <workItem from="1588815450887" duration="22241000" />
+      <workItem from="1588989433453" duration="1654000" />
+      <workItem from="1589017854296" duration="22000" />
+      <workItem from="1589181094092" duration="2551000" />
+      <workItem from="1589247839119" duration="11791000" />
+      <workItem from="1589335216238" duration="11000" />
+      <workItem from="1589335979742" duration="7235000" />
+      <workItem from="1589852606099" duration="308000" />
+      <workItem from="1589880807166" duration="2351000" />
+      <workItem from="1589943025516" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
